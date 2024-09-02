@@ -1,70 +1,62 @@
-# Getting Started with Create React App
+🧠 Facts React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Welcome to the Facts React App! 
 
-## Available Scripts
+This application is designed to provide users with interesting and random facts on various topics. It's built using React, showcasing modern web development practices and a clean, user-friendly interface. 
 
-In the project directory, you can run:
 
-### `npm start`
+🚀 Features
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Random Facts: Get a new random fact with every click.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Interactive UI: Simple and engaging user interface.
 
-### `npm test`
+Responsive Design: Fully responsive, works seamlessly on all devices.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+API Integration: Fetches facts dynamically from a public API.
 
-### `npm run build`
+Users can add their own facts and vote on it.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Can give votes for each fact, giving a clear distinction between factually correct and wrong facts.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+🛠️ Installation & Setup
 
-### `npm run eject`
+To get started with the project locally, follow these steps:
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+Clone the repository: git clone https://github.com/Gaurav-Sharma21/Facts_ReactApp.git
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Navigate to the project directory: cd Facts_ReactApp
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+Install the dependencies: npm install
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+Start the development server: npm start
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+🔧 Technologies Used
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+React.js: Front-end library for building user interfaces.
 
-### Code Splitting
+CSS Modules: Scoped and maintainable styles.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+Supabase: For backend Functionalities.
 
-### Analyzing the Bundle Size
+React Router (optional): For adding routing functionality.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+Netlify: For deployement.
 
-### Making a Progressive Web App
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+🎨 UI/UX Design
 
-### Advanced Configuration
+The app's design is minimalist yet functional, focusing on content and usability. Key design choices include:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+Card-based Layout: Facts are displayed in clean, card-style components.
 
-### Deployment
+Color Scheme: Soft colors for light mode and deep tones for dark mode.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+Typography: Clear and readable fonts to enhance user experience.
 
-### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+🌐 Live Demo
+Check out the live version of the app here https://learnnewfacts-gaurav.netlify.app/
